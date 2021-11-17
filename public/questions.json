@@ -1,0 +1,20 @@
+[
+    {
+        "key": 0,
+        "q": "Do you like to cook with your partner?",
+        "a1": "Sure",
+        "a2": "Not so much"
+    },
+    {
+        "key": 1,
+        "q": "Do you know your partner's zodiac sign?",
+        "a1": "Yes, I know",
+        "a2": "Nope"
+    },
+    {
+        "key": 2,
+        "q": "Are you the first trying to make up after an argue?",
+        "a1": "I'm first",
+        "a2": "My partner is first"
+    }
+]

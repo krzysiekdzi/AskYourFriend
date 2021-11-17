@@ -1,0 +1,20 @@
+[
+    {
+        "key": 0,
+        "q": "Czy lubisz gotować ze swoim partnerem?",
+        "a1": "Oczywiście",
+        "a2": "Niekoniecznie"
+    },
+    {
+        "key": 1,
+        "q": "Czy znasz znak zodiaku swojego partnera?",
+        "a1": "Znam",
+        "a2": "Nie znam"
+    },
+    {
+        "key": 2,
+        "q": "Czy pierwszy próbujesz się pogodzić po kłótni?",
+        "a1": "Tak",
+        "a2": "Nie"
+    }
+]
